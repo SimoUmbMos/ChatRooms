@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1056093434446",
+    "firebase_url": "https://unichat-ab241.firebaseio.com",
+    "project_id": "unichat-ab241",
+    "storage_bucket": "unichat-ab241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056093434446:android:71f8a99d66500d7c",
+        "android_client_info": {
+          "package_name": "com.sorar.unichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056093434446-2dvh0scemgdan4e1ao25p3vspdit8f5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sorar.unichat",
+            "certificate_hash": "322420710A670C1B48E8C89CDF23D276A2FC092C"
+          }
+        },
+        {
+          "client_id": "1056093434446-fne5kvnej2meo55h2da5kjvfh95sakbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYdp_9xH15Q5valvTHcphDjN5XkaN8Hlw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056093434446-fne5kvnej2meo55h2da5kjvfh95sakbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

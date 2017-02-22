@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UniChat</string>
+    <string name="create_thread">Create Thread</string>
+    <string name="dummy_button">Login</string>
+    <string name="create">Create Thread</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="logout">Logout</string>
+    <string name="create_a_new_thread">Create a new thread</string>
+    <string name="title_activity_thread_message">ThreadMessageActivity</string>
+    <string name="back">Back</string>
+    <string name="delete_all_messages">Delete all Messages</string>
+    <string name="send">Send</string>
+    <string name="send_image">Send Image</string>
+</resources>

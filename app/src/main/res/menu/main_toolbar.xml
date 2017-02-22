@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:icon="?attr/actionModeCloseDrawable"
+        android:id="@+id/logout_menu"
+        android:title="@string/logout"
+        app:showAsAction="always" />
+    <item android:icon="@mipmap/create_thread"
+        android:id="@+id/create_menu"
+        android:title="@string/create"
+        app:showAsAction="always" />
+</menu>
